@@ -10,7 +10,8 @@
 ## 📸 Demo / Screenshots
 
 <p align="center">
-  <img src="docs/React Memory.gif" alt="React Memory gif" width="700">
+  <img src="Docs/React Memory.gif" alt="React Memory gif" width="700">
+  
 </p>
 
 ---
